@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gesture OS
 
 A gesture-based operating system interface that allows you to control your computer using hand gestures.
@@ -89,3 +90,7 @@ This project is open source and available for modification and distribution.
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
+=======
+# GestureOS
+AI-powered gesture-based OS controller using computer vision and machine learning for real-time, hands-free system interaction.
+>>>>>>> 93b136271d4826ed9ad692dfa5073107d531e26b
